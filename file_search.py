@@ -1,5 +1,5 @@
 ''' 
-Created by Ryan Coulson.
+Created by Ryan Coulson for Python 3.
 
 Given a directory, scan through all the files and return a list of
 all files that include a certain keyword. '''
